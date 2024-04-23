@@ -58,7 +58,7 @@ int main(int, char** argv){
 
 Imagem original:
 
-image::totoro.png[]
+image::lilo-and-stitch.png[]
 
 Imagem com o efeito negativo aplicado na região escolhida:
 
